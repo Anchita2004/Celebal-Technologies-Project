@@ -28,6 +28,7 @@ Trained RandomForestClassifier(n_estimators=100, random_state=42) — no class-b
 
 Holdout accuracy: 80.5% 5-fold cross-validation mean accuracy: 76%
 
+
 Class	Precision	Recall	F1-score	Support
 1 – Good	0.82	0.93	0.87	141
 2 – Bad	0.75	0.51	0.61	59
